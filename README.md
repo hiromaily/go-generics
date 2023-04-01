@@ -1,2 +1,2 @@
 # go-generics
-Generics sample
+Generics samples
